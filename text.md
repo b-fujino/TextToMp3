@@ -1,4 +1,3 @@
-text = """
 # title  page:
 hello everyone nice to meet you! 
 my name is Hidenori Fujino.
@@ -191,4 +190,3 @@ Thank you for your attention.
 
 I hope you found this talk informative and thought-provoking.
 If you have any questions or comments, please feel free to ask.
-"""
