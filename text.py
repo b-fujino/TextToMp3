@@ -4,7 +4,9 @@ hello everyone nice to meet you!
 my name is Hidenori Fujino.
 I'm from Fukui prefectural University, Japan.
 Do you know where Fukui is? Probably no one knows. Fukui is very local city in Japan. But recently becoming famous for dinosaur fossils. 
-Today I would like to talk about psychological safety and safety culture for safety resilience.
+If you have a chance, please visit Fukui and enjoy a dinosaur.
+
+Then Today I would like to talk about psychological safety and safety culture for safety resilience.
 [eop]
 
 # Contents page:
@@ -18,7 +20,7 @@ And finally, I’ll share some thoughts on future directions for this research.
 So let’s get started with the first topic — What’s safety culture?
 [eop]
 
-# What‘s Safety Culture?:
+# What's Safety Culture?:
 Safety Culture is a key concept in organizational safety management.
 This concept originated from Chernobyl NPP accident, 1986, in Soviet Union.
 After investigating the accident, safety culture was identified as one of its major contributing factors by IAEA. 
@@ -33,22 +35,23 @@ Basically, organizational culture consists of both visible and invisible element
 
 First, the visible aspects include things like:
 – Tangible elements such as the workplace layout, equipment and tools, formal management systems, structures of organizaiton and so on.
-– Cognitive elements like members’ behavior, languages, terminology, and conceptual frameworks used in their thinking.
+– Cognitive elements like members’ behavior, languages, and terminology
 
 On the other hand, there are invisible aspects.
 These include shared norms, beliefs, and values among members,
-as well as the basic underlying assumptions that exist throughout the organization — often without being noticed.
+as well as basic underlying assumptions — such as conceptual frameworks that shape their thinking unconsciously, or taken-for-granted “common sense” within the organization.
+
+These assumptions exist throughout the organization, often without being explicitly recognized.
 
 This figure is Schein’s three-level model of organizational culture.
 
 It shows how the most visible level — artifacts — are shaped by the middle layer: espoused beliefs and values.
-
 And those beliefs and values, in turn, are established by the deepest level: basic underlying assumptions.
+At the same time, artifacts can also reinforce beliefs and values, which in turn help sustain the underlying assumptions, creating a dynamic relationship among the three levels.
 
 In practice, when analyzing a culture, we often observe artifacts first, try to interpret the values behind them,
 and then work to identify the deeper assumptions that truly shape the organization’s culture.
 
-This is a simplified explanation.
 [eop]
 
 # return a page:
@@ -102,7 +105,7 @@ These three cultures work together, like gears, to support an informed culture �
 [eop]
 
 # What’s Psychological Safety:
-Anyway, let’s move on to the concept of psychological safety.
+From here, let’s move on to the concept of psychological safety.
 
 Psychological safety was proposed by Professor Amy Edmondson in 1999 as one of the key concepts in organizational behavioral science.
 

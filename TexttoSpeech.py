@@ -26,10 +26,10 @@ def text_to_speech(text, number):
     # APIキーの取得
     API_KEY = GOOGLE_TTS_API_KEY
 
-    langcode = "en-US"
-    voicetype = "en-US-Wavenet-D"
-    speed = 0.8
-    pitch = -0.05
+    langcode = "en-GB"#"en-US"
+    voicetype = "en-GB-Wavenet-D"#"en-US-Wavenet-D"
+    speed = 0.9
+    pitch = 0.0
 
     # APIエンドポイント
     url = f"https://texttospeech.googleapis.com/v1/text:synthesize?key={API_KEY}"
@@ -86,5 +86,5 @@ if __name__ == "__main__":
     sound = AudioSegment.empty()
     for i in range(len(text)):
         sound += AudioSegment.from_file(f"output_{i}.mp3", format="mp3")   
-    sound.export("output.mp3", format="mp3")
+    sound.export("output_GB.mp3", format="mp3")
     print("音声ファイルを結合しました。")   
